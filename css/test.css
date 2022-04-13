@@ -1,0 +1,29 @@
+body{
+	background-color: yellowgreen;
+}
+
+h1{
+	font-size: 30px;
+	color: teal;
+}
+
+h2{
+	color: darkred;
+	font-size: 20px;
+}
+
+.foo{
+	font-size: 60px;
+}
+
+.baz{
+	text-transform: uppercase;
+}
+
+.foo.baz{
+	color: navy;
+}
+
+h1 span{
+	color: blueviolet;
+}
